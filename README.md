@@ -1,4 +1,4 @@
-# OffCanvas
+# Vue2OffCanvas
 
 > OffCanvas (Sidenav/Drawer) component for Vue.js
 
